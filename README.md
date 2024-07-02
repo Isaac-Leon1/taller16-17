@@ -16,5 +16,5 @@ Esta solución tecnológica no solo abordará el problema de la gestión de resi
 
 2. *Backend*:
     - *Tecnologías*: Node.js, Express.js, MongoDB
-    - *Características*: API RESTful, gestión de usuarios, sistema de notificaciones, CMS para contenido educativo
+    - *Características*: API RESTful, gestión de usuarios, sistema de notificaciones.
 
